@@ -112,7 +112,7 @@ const CatchGame: React.FC = () => {
         textAlign: "center",
       }}
     >
-      <h1>Catch the Falling Objects</h1>
+      <h1>| Catch the Falling Objects |</h1>
       <div style={{ marginBottom: "20px" }}>
         <p>
           <strong>Controls:</strong> Arrow Keys to Move
